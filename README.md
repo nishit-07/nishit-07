@@ -60,12 +60,12 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rutvik-3377&show_icons=true&theme=radical" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rutvik-3377&theme=radical" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nishit-07&show_icons=true&theme=radical" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishit-07&theme=radical" height="180px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutvik-3377&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishit-07&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -73,7 +73,7 @@
 ## 🌍 Visitor Map
 
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=rutvik-3377&label=VISITORS&labelColor=%23000000&countColor=%23FFFFFF" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=nishit-07&label=VISITORS&labelColor=%23000000&countColor=%23FFFFFF" />
 </p>
 
 ---
