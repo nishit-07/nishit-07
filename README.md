@@ -80,11 +80,15 @@
 
 ## 📌 Featured Projects
 
-- 🧾 MERN Stack CRUD Application  
-- 🔐 Authentication System using JWT & Bcrypt  
-- 📦 E-Commerce Backend API with Express & MongoDB  
-- 🎨 React Dashboard with Tailwind CSS  
-- 🧠 Full-Stack Blog Platform with MongoDB + MySQL support  
+📌 Featured Projects
+🛒 E-Commerce Platform (MERN)
+Online store with product catalog, cart, orders, admin panel, and Stripe payments.
+
+🧑‍💼 HR-Vision – HR Management System
+Manage employees, attendance, leaves, and payroll with role-based access (React + Node.js + MySQL).
+
+🛗 Elevator Dashboard (React + Node.js)
+Real-time elevator simulation system with backend API analytics.
 
 ---
 
